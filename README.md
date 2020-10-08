@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Afif Nurraihan from Bantul 👋
+I'm student on Universitas Ahmad Dahlan 
 <!--
 **AfifNurraihan/AfifNurraihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
